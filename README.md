@@ -2,11 +2,18 @@
 Rotate image in wxPython frame.
 
 
-## Demo1
+## Demo 1
 ![Rotate](https://github.com/pydemo/rotate_image/blob/master/docs/images/rotate3.JPG?raw=true "Rotate")
 
 
-## Demo2
+
+## Demo 2
+![Rotate](https://github.com/pydemo/rotate_image/blob/master/docs/images/rotate2.JPG?raw=true "Rotate")
+
+
+
+
+## Demo 3
 ![Rotate](https://github.com/pydemo/rotate_image/blob/master/docs/images/rotate.jpg?raw=true "Rotate")
 
 
