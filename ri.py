@@ -87,10 +87,10 @@ class ViewerFrame(wx.Frame, Base):
 		self.pnl.setFile(fn)
 	def OnRotateF(self, evt):
 		#print(132)
-		self.pnl.Rotate(-15)
+		self.pnl.Rotate(360-10)
 	def OnRotateB(self, evt):
 		#print(132)
-		self.pnl.Rotate(15)
+		self.pnl.Rotate(10)
 		
 		if 0:
 			self.sizer.Clear()

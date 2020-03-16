@@ -1,1 +1,1 @@
-python gui.py %*
+python ri.py %*
