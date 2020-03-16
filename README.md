@@ -13,7 +13,7 @@ Rotate image in wxPython frame.
 
 
 
-## Printed result (Art)
+## Printed result 
 ![Rotate](https://github.com/pydemo/rotate_image/blob/master/docs/images/result.JPG?raw=true "Rotate")
 
 
